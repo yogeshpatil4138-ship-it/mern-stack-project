@@ -1,2 +1,0 @@
-root: C:\xampp\htdocs\campuspe\first java internship\html\javascript\nodejs\basicnodejs\nvm
-path: C:\xampp\htdocs\campuspe\first java internship\html\javascript\nodejs\basicnodejs\nodejs
