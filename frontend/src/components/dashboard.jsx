@@ -9,7 +9,7 @@ Dashboard
 </h1>
 
 <div className="bg-gray-100 p-4 rounded mb-4">
-Welcome
+Item list 
 </div>
 
 <form className="mb-4">
@@ -21,7 +21,7 @@ className="border p-2 mr-2"
 />
 
 <button className="bg-blue-500 text-white px-4 py-2">
-Enter yoyr name
+add items 
 </button>
 
 </form>
@@ -30,7 +30,7 @@ Enter yoyr name
 
 <li className="border p-2 mb-2 flex justify-between">
 
-First name
+Item name
 
 <div>
 
